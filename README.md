@@ -11,4 +11,3 @@ gosto de programar e desenvolver projetos, em suma maioria são para resolver pr
 
 [<img src='https://raw.githubusercontent.com/proyectox123/proyectox123/master/images/icons/linkedin.png' alt='linkedin' height='32'>](https://www.linkedin.com/in/fabricio-caetano)
 &nbsp;&nbsp;[<img src='https://telegram.org/img/t_logo.png?1' alt='Telegram' height='32'>](https://t.me/fabriciocybershell)
-&nbsp;&nbsp;[<img src='https://raw.githubusercontent.com/proyectox123/proyectox123/master/images/icons/instagram.png' alt='instagram' height='32'>](https://www.instagram.com/mhodroid91/)
