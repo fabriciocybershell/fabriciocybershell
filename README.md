@@ -1,6 +1,6 @@
 # oi, meu nome é Fabrício C. Lopes
 
-gosto de programar e desenvolver projetos, em suma maioria são para resolver problemas do meu dia a dia, e de quebra resolver problemas de pessoas alheias, além de promover estudos com meus códigos livres, desenvolvo com muito café e uma boa canção <3
+gosto de programar e desenvolver projetos, em suma maioria são para resolver problemas do meu dia a dia, e de quebra resolver problemas de pessoas alheias, além de promover estudos com meus códigos livres, desenvolvo com muito café e um bom rock <3
 
 ## I love ShellScript
 [<img src="https://img.shields.io/github/license/fabriciocaetano/Mikosuma?style=for-the-badge">](https://img.shields.io/github/license/fabriciocaetano/Mikosuma?style=for-the-badge)
