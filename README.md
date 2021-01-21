@@ -1,4 +1,4 @@
-# oi, meu nome é Fabrício C. Lopes
+# oi, meu nome é Fabrício Caetano
 
 gosto de programar e desenvolver projetos, em suma maioria são para resolver problemas do meu dia a dia, e de quebra resolver problemas de pessoas alheias, além de promover estudos com meus códigos livres, desenvolvo com muito café e um bom rock <3
 
