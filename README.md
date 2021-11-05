@@ -2,7 +2,7 @@
 
 gosto de programar e desenvolver projetos, em suma maioria são para resolver problemas do meu dia a dia, e de quebra resolver problemas de pessoas alheias, além de promover estudos com meus códigos livres, desenvolvo com muito café e um bom rock <3
 
-## I love ShellScript
+## I love ShellScript, my base is C, and learning nodejs
 [<img src="https://img.shields.io/github/license/fabriciocaetano/Mikosuma?style=for-the-badge">](https://img.shields.io/github/license/fabriciocaetano/Mikosuma?style=for-the-badge)
 &nbsp;&nbsp;[<img src="https://img.shields.io/github/stars/fabriciocaetano/Mikosuma?style=for-the-badge">](https://img.shields.io/github/stars/fabriciocaetano/Mikosuma?style=for-the-badge)
 &nbsp;&nbsp;[<img src="https://img.shields.io/github/contributors-anon/fabriciocaetano/mikosuma?style=for-the-badge">](https://img.shields.io/github/contributors-anon/fabriciocaetano/mikosuma?style=for-the-badge)
