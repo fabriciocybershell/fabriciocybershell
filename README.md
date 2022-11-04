@@ -7,6 +7,9 @@ gosto de programar e desenvolver projetos, em suma maioria são para resolver pr
 &nbsp;&nbsp;[<img src="https://img.shields.io/github/stars/fabriciocaetano/Mikosuma?style=for-the-badge">](https://img.shields.io/github/stars/fabriciocaetano/Mikosuma?style=for-the-badge)
 &nbsp;&nbsp;[<img src="https://img.shields.io/github/contributors-anon/fabriciocaetano/mikosuma?style=for-the-badge">](https://img.shields.io/github/contributors-anon/fabriciocaetano/mikosuma?style=for-the-badge)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciocaetano&layout=compact&langs_count=7&theme=synthwave">
+<img src="https://github-readme-stats.vercel.app/api?username=fabriciocaetano&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
+
 ## redes sociais/social media
 
 [<img src='https://raw.githubusercontent.com/proyectox123/proyectox123/master/images/icons/linkedin.png' alt='linkedin' height='32'>](https://www.linkedin.com/in/fabricio-c-9427221b4)
