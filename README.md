@@ -11,3 +11,7 @@ gosto de programar e desenvolver projetos, em suma maioria são para resolver pr
 <img src="https://github-readme-stats.vercel.app/api?username=fabriciocybershell&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
 
 [<img src="https://www.worldcommunitygrid.org/images/logo_images/dyn_logo_2.jpg">](https://www.worldcommunitygrid.org/)
+
+```
+# Git is weak, Fossil is powerful.
+```
