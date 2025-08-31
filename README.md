@@ -10,7 +10,7 @@ gosto de programar e desenvolver projetos, em suma maioria são para resolver pr
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciocybershell&layout=compact&langs_count=7&theme=synthwave">
 <img src="https://github-readme-stats.vercel.app/api?username=fabriciocybershell&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
 
-[<img src="https://www.cs.toronto.edu/~juris/jlab/images/jurisicalab.png">]([https://www.worldcommunitygrid.org/])
+[<img src="https://www.cs.toronto.edu/~juris/jlab/images/jurisicalab.png">]([https://www.cs.toronto.edu/~juris/jlab/wcg.html])
 
 ```
 # Git is weak, Fossil is powerful.
